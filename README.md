@@ -5,6 +5,8 @@
 >
 > *A pharma-marketing **activity-design review & judgment-calibration** engine for AI agents. It doesn't design events — it audits them: catches strategy-disconnected agendas, anti-human-nature tasks, and endings with no business takeaway.*
 
+> ⭐ **装上觉得有用?顺手点个 Star** —— 让更多医药市场部同行刷到它,也让我知道这条路走得通。
+
 ![活动设计体检对比卡示例](examples/活动方案-对比卡.png)
 
 > 上图为 skill 生成的"改前 vs 改后"对比卡(示例为**虚构降压药城市论坛**)。
